@@ -13,6 +13,7 @@ class ComposerStaticInit11008082d32978721883b4f0168c4ec5
         '320cde22f66dd4f5d3fd621d3e88b98f' => __DIR__ . '/..' . '/symfony/polyfill-ctype/bootstrap.php',
         '841f98c5d948ce534a6f87abe5b50614' => __DIR__ . '/..' . '/roots/wp-password-bcrypt/wp-password-bcrypt.php',
         '667aeda72477189d0494fecd327c3641' => __DIR__ . '/..' . '/symfony/var-dumper/Resources/functions/dump.php',
+        'a2c48002d05f7782d8b603bd2bcb5252' => __DIR__ . '/..' . '/johnbillion/extended-cpts/extended-cpts.php',
         'a21e70ca1cdeca5aa284b987d10b88cd' => __DIR__ . '/..' . '/wordplate/framework/src/helpers.php',
     );
 
@@ -35,6 +36,10 @@ class ComposerStaticInit11008082d32978721883b4f0168c4ec5
         'P' => 
         array (
             'PhpOption\\' => 10,
+        ),
+        'E' => 
+        array (
+            'ExtCPTs\\Tests\\' => 14,
         ),
         'D' => 
         array (
@@ -86,6 +91,10 @@ class ComposerStaticInit11008082d32978721883b4f0168c4ec5
         'PhpOption\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpoption/phpoption/src/PhpOption',
+        ),
+        'ExtCPTs\\Tests\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/johnbillion/extended-cpts/tests/phpunit',
         ),
         'Dotenv\\' => 
         array (

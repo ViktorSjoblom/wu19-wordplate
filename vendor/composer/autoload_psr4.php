@@ -16,6 +16,7 @@ return array(
     'Symfony\\Component\\Mime\\' => array($vendorDir . '/symfony/mime'),
     'Symfony\\Component\\HttpFoundation\\' => array($vendorDir . '/symfony/http-foundation'),
     'PhpOption\\' => array($vendorDir . '/phpoption/phpoption/src/PhpOption'),
+    'ExtCPTs\\Tests\\' => array($vendorDir . '/johnbillion/extended-cpts/tests/phpunit'),
     'Dotenv\\' => array($vendorDir . '/vlucas/phpdotenv/src'),
     'Composer\\Installers\\' => array($vendorDir . '/composer/installers/src/Composer/Installers'),
 );
