@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 add_action('init', function () {
-    register_post_type('student', [
+    register_extended_post_type('student', [
         'has_archive' => true,
         'labels' => [
             'add_new_item' => __('Add New Student'),

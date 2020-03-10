@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 add_action('init', function () {
-    register_taxonomy('skill', ['student'], [
+    register_extended_taxonomy('skill', ['student'], [
         'hierarchical' => true,
         'labels' => [
             'add_new_item' => __('Add New Skill'),

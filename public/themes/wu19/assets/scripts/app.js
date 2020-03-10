@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/viktorsjoblom/Desktop/wu19wordplate/resources/scripts/app.js */"./resources/scripts/app.js");
-module.exports = __webpack_require__(/*! /Users/viktorsjoblom/Desktop/wu19wordplate/resources/styles/app.scss */"./resources/styles/app.scss");
+__webpack_require__(/*! /Users/viktorsjoblom/Desktop/wu19-wordplate/resources/scripts/app.js */"./resources/scripts/app.js");
+module.exports = __webpack_require__(/*! /Users/viktorsjoblom/Desktop/wu19-wordplate/resources/styles/app.scss */"./resources/styles/app.scss");
 
 
 /***/ })
